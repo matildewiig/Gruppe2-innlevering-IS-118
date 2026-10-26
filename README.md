@@ -1,2 +1,2 @@
-# Gruppe2-innlevering1-IS-118
-Repository for gruppe 2 i IS-118, Gruppeinnlevering 1
+# Gruppe2-innlevering-IS-118
+Repository for gruppe 2 i IS-118, Gruppeinnleveringer
