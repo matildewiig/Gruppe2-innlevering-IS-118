@@ -6,4 +6,5 @@
 ## 4. Proaktive mekanismer for konflikthåndtering
 ## 5. Håndtering av tidspress og planleggingsfellen
 ## 6. Sikring av god kommunikasjon
+## 7. Egenevaluering av gruppekontrakt
 ## Avslutning
