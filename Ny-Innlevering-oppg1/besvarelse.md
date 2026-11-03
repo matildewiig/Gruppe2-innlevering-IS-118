@@ -13,3 +13,8 @@ Dette må vurderes tidlig i forming-fasen fordi gruppen da begynner å etablere 
 ## 6. Sikring av god kommunikasjon
 ## 7. Egenevaluering av gruppekontrakt
 ## Avslutning
+For at Erling skal lykkes med prosjektet, er det viktig å legge et godt grunnlag helt fra starten. Prosjektgruppen må settes sammen med personer som har riktig kompetanse, men som også klarer å samarbeide godt sammen. Det første møtet bør brukes til å skape en felles forståelse av målene, deres forventninger til hverandre og hvilken rolle hver person har. Det er også viktig med tydelige avtaler, god kommunikasjon og rutiner for å håndtere konflikter tidlig. Samtidig må prosjektlederen passe på å ikke planlegge for mye eller undervurdere tidspresset.
+
+Kilder:
+Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
+Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk
