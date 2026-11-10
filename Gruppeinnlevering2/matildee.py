@@ -16,7 +16,6 @@ def hent_valg(alternativ1, alternativ2):
 
 # Variabel som teller hvor aktivt Erling har ledet teamet (brukes til slutt)
 poeng = 0
-
 # ----------------------------------------------------------------
 # INTRODUKSJON
 # ----------------------------------------------------------------
